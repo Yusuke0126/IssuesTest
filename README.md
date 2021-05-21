@@ -1,4 +1,3 @@
 # IssuesTest
 
-## add title
-## css初期化
+## Issuesの練習用ダミーテキスト
